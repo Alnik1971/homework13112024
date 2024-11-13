@@ -8,7 +8,7 @@ import ru.netology.repository.PostRepositoryInt;
 
 import java.util.List;
 
-@Service
+
 public class PostService {
   private final PostRepositoryInt repository;
 

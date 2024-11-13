@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicLong;
 
 // Stub
-@Repository
+
 public class PostRepository implements PostRepositoryInt {
 
   private ConcurrentHashMap<Long, Post> rep;
